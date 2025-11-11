@@ -1,3 +1,3 @@
-# Project Repository
+# Backend Workspace
 
-This is the initial README file for the project.
+See backend/README.md for run instructions, CORS configuration, and OpenAPI endpoints.
